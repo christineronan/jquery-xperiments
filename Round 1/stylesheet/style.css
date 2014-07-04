@@ -1,0 +1,54 @@
+nav.left{
+	padding:1em;
+	display:inline-block;
+	width:12%;
+	height:670px;
+	}
+h1{
+	font-family: 'Aldrich', sans-serif;
+	font-size: 1.2em;
+	letter-spacing:2px;
+	}
+h2{
+	font-size: .9em;
+	font-family: 'Aldrich', sans-serif;
+	margin-bottom: 1em;
+	text-decoration:none; 
+	}
+h3{
+	font-family: 'Aldrich', sans-serif;
+	font-size: .5em;
+	text-align:left;
+	margin-top:1em;
+	margin-bottom:1em;
+	}
+p{
+	font-family: "georgia" serif;
+	font-size: 1em;
+	font-style: italic;
+	margin-bottom:2em;
+	}
+.logo{
+	width:80%;
+	height:auto;
+	margin:;
+	}
+a href{
+	text-decoration:none
+	}
+#wizards {
+	display:block;
+	vertical-align:top;
+	width:80%;
+	float:right;
+	margin-left:1em;
+	}
+#wizards li {
+	list-style: none; float: left; margin: 15px;
+	}
+#wizards a img {
+	border: 5px solid #aaa;
+	}
+#wizards a:hover img {
+	border: 5px solid #75879d;
+	}
